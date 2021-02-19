@@ -1,0 +1,10 @@
+Avatar,2.790,2009
+Avengers: Endgame,2.797,2019
+Avengers: Infinity War,2.048,2018
+Frozen II,1.450,2019
+Furious 7,1.515,2015
+Jurassic World,1.670,2015
+Marvel's The Avengers,1.518,2012
+Star Wars: The Force Awakens,2.068,2015
+The Lion King,1.750,2019
+Titanic,2.195,1997
